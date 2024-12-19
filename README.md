@@ -53,7 +53,8 @@ To meet the company’s needs, the following steps were undertaken:
      - A substantial segment of customers purchases only during promotional periods.
      - Online data shows a strong correlation between time spent on the website and the average cart size.
   ```
-  Recommendations:
+  ```
+    Recommendations:
 
   1) Strengthen promotional offers to attract more customers during slow periods.
   2) Implement targeted loyalty campaigns for regular customers.
