@@ -7,11 +7,10 @@ Lapage, initially a physical bookstore, launched an online sales platform two ye
 **Objectif:** 
   
 The analyses are divided into two main focus areas:
-
-  - Sales Performance Analysis:
-    Identify key metrics, KPIs, and evaluate sales performance to guide commercial strategy.
-  - Customer Behavior Analysis:
-    Study customer data to understand their online shopping habits and compare these behaviors with those observed in physical stores.
+- Sales Performance Analysis:
+  Identify key metrics, KPIs, and evaluate sales performance to guide commercial strategy.
+- Customer Behavior Analysis:
+  Study customer data to understand their online shopping habits and compare these behaviors with those observed in physical stores.
 
 **B) Methodology**
 
@@ -40,8 +39,8 @@ To meet the company’s needs, the following steps were undertaken:
      - Summarizing key results in a synthetic dashboard format.
   ```
 **C) Results and Recommendations**  
-  ```
-  Results:
+ ```
+Results:
 
   1) Sales Performance:
      - Revenue: A steady increase in sales was observed, with significant peaks during holiday periods.
@@ -52,10 +51,10 @@ To meet the company’s needs, the following steps were undertaken:
      - Regular customers account for a significant portion of total sales, highlighting the importance of loyalty.
      - A substantial segment of customers purchases only during promotional periods.
      - Online data shows a strong correlation between time spent on the website and the average cart size.
-  ```
-  ```
-    Recommendations:
-
+ ```
+```
+Recommendations:
+ 
   1) Strengthen promotional offers to attract more customers during slow periods.
   2) Implement targeted loyalty campaigns for regular customers.
   3) Optimize the user experience on the website to reduce abandonment rates and improve conversions.
