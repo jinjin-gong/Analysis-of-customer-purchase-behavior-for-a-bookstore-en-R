@@ -20,6 +20,7 @@ To meet the company’s needs, the following steps were undertaken:
   1) Data Preparation:
      - Cleaning and structuring the data provided in files.
      - Ensuring the quality and consistency of the information (handling missing values, duplicates, etc.).
+     - Familiarity with advanced Excel techniques (e.g., pivot tables, VLOOKUP, macros)
 
   2) Sales Performance Analysis:   
      - Calculation of key KPIs (revenue, sales volume, average cart size).
