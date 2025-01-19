@@ -14,6 +14,7 @@ Pour répondre aux besoins de l’entreprise, les étapes suivantes ont été r�
 1. **Préparation des données** :
     - Nettoyage et structuration des données fournies dans les fichiers.
     - Vérification de la qualité et de la cohérence des informations (gestion des valeurs manquantes, doublons, etc.).
+    - Familiarité avec des techniques avancées d'Excel (par exemple, tableaux ,croisés dynamiques, rechercheV)
 2. **Analyse des indicateurs de vente** :
     - Calcul des KPI principaux (chiffre d'affaires, volume de ventes, panier moyen).
     - Analyse des tendances temporelles des ventes pour identifier les périodes de forte activité.
